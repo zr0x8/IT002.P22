@@ -119,6 +119,6 @@ int main() {
 <details>
 <summary>Ẩn/hiện</summary>
   
-![Không tải được](LAB_02/1/Misc/UML_and_test.png)
+![Không tải được](1/Misc/UML_and_test.png)
 
 </details>
